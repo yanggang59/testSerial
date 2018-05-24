@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1527065756 source:/home/thomas/CodeBlocks_WS/test_serial/serialSend.cpp
+	"serialSend.h"
+
+1527065730 /home/thomas/CodeBlocks_WS/test_serial/serialSend.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+
+1527068917 source:/home/thomas/CodeBlocks_WS/test_serial/main.cpp
+	"serialSend.h"
+	<iostream>
+
